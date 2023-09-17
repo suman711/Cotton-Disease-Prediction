@@ -1,1 +1,3 @@
-# Cotton-Disease-Prediction
+# Cotton Disease Prediction
+
+Tech Stack: Python
